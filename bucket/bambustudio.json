@@ -1,11 +1,10 @@
 {
-    "version": "01.08.04.51",
+    "version": "01.09.02.57",
     "description": "PC Software for BambuLab's 3D printers",
     "homepage": "https://github.com/bambulab/BambuStudio",
     "license": "AGPL-3.0-or-later",
-    "url": "https://github.com/bambulab/BambuStudio/releases/download/v01.08.04.51/Bambu_Studio_win-v01.08.04.51-20240607194639.zip",
+    "url": "https://github.com/bambulab/BambuStudio/releases/download/v01.09.02.57/Bambu_Studio_win-v01.09.02.57-20240607194639.zip",
     "hash": "135d9573dc13cbbbc98273f119c8d57b5a04499f65726680e701ff3ca231f02a",
-
     "shortcuts": [
         [
             "bambu-studio.exe",
