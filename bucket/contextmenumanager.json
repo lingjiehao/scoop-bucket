@@ -1,0 +1,21 @@
+{
+    "version": "3.3.3.1",
+    "description": "A tool to manage the Windows context menu (right-click menu) items.",
+    "homepage": "https://bluepointlilac.github.io/ContextMenuManager/",
+    "license": "GPL-3.0-only",
+    "notes": ".NET Framework 4.0 or later is required (bundled with Windows 8 and above).",
+    "url": "https://github.com/BluePointLilac/ContextMenuManager/releases/download/3.3.3.1/ContextMenuManager.NET.4.0.exe#/ContextMenuManager.exe",
+    "hash": "1352c2222d2d28dd1a8824334f16c0676dfe88cd7211de873ec9b125f6782ec7",
+    "shortcuts": [
+        [
+            "ContextMenuManager.exe",
+            "ContextMenuManager"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/BluePointLilac/ContextMenuManager"
+    },
+    "autoupdate": {
+        "url": "https://github.com/BluePointLilac/ContextMenuManager/releases/download/$version/ContextMenuManager.NET.4.0.exe#/ContextMenuManager.exe"
+    }
+}
